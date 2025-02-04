@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Rafaelle", 
+        "idade": 24,
+        "esta_trabalhando":false,
+        "hobbies":["Editar", "jogar roblox", "Ler"],
+        "detalhes_profissao":{
+            "profissao": "Jogadora de roblox",
+            "empresa": " mundo de merda"
+        }
+    }
+]
